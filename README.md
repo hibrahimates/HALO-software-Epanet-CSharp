@@ -4,6 +4,8 @@ Please do not hesitate to contact with me for your queryies.
 ibrahim.ates@metu.edu.tr
 ibrahimates@yandex.com
 
+
+---ABOUT Epanet Library---
 Epanet -- Epanet2 Toolkit hydraulics library C# Interface
                                                                    
 EpanetException.cs -- Epanet 2 Toolkit error code to C# exception mapping.
