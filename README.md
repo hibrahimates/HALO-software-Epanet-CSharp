@@ -1,6 +1,8 @@
+note:this repo will updated and files will be shared as soon as possible. someone who needs this project could ask me by mail. Love to help scientist people.
+
 # HALO-software-Epanet-CSharp
 HALO software which is programmed according to paper (Todini, 2000) developed for Msc Thesis at METU (Turkey).
-Please do not hesitate to contact with me for your queryies.
+Please do not hesitate to contact with me for your queries.
 ibrahim.ates@metu.edu.tr
 ibrahimates@yandex.com
 
