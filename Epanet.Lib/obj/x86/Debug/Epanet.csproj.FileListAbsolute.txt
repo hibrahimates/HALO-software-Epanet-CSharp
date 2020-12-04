@@ -1,0 +1,6 @@
+C:\Users\Monster_PC\Desktop\EPanet\EPanet\Epanet.Lib\bin\Debug-x86\Epanet.exe.config
+C:\Users\Monster_PC\Desktop\EPanet\EPanet\Epanet.Lib\bin\Debug-x86\Epanet.exe
+C:\Users\Monster_PC\Desktop\EPanet\EPanet\Epanet.Lib\bin\Debug-x86\Epanet.pdb
+C:\Users\Monster_PC\Desktop\EPanet\EPanet\Epanet.Lib\obj\x86\Debug\Epanet.csproj.CoreCompileInputs.cache
+C:\Users\Monster_PC\Desktop\EPanet\EPanet\Epanet.Lib\obj\x86\Debug\Epanet.exe
+C:\Users\Monster_PC\Desktop\EPanet\EPanet\Epanet.Lib\obj\x86\Debug\Epanet.pdb

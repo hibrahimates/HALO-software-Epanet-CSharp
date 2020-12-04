@@ -1,0 +1,117 @@
+[TITLE]
+
+[JUNCTIONS]
+ 2                                   150.0000
+ 3                                   160.0000
+ 4                                   155.0000
+ 5                                   150.0000
+ 6                                   165.0000
+ 7                                   160.0000
+
+[RESERVOIRS]
+ 1                                   210.0000 
+
+[TANKS]
+
+[PIPES]
+ 1                               1                               2                                  1000.0000     609.6000     130.0000       0.0000 
+ 2                               2                               3                                  1000.0000     609.6000     130.0000       0.0000 
+ 3                               2                               4                                  1000.0000     609.6000     130.0000       0.0000 
+ 4                               4                               5                                  1000.0000     609.6000     130.0000       0.0000 
+ 5                               4                               6                                  1000.0000     609.6000     130.0000       0.0000 
+ 6                               6                               7                                  1000.0000     609.6000     130.0000       0.0000 
+ 7                               3                               5                                  1000.0000     609.6000     130.0000       0.0000 
+ 8                               5                               7                                  1000.0000     609.6000     130.0000       0.0000 
+
+[PUMPS]
+
+[VALVES]
+
+[DEMANDS]
+ 2                                    27.780000 
+ 3                                    27.780000 
+ 4                                    33.330000 
+ 5                                    75.000000 
+ 6                                    91.670000 
+ 7                                    55.560000 
+
+[EMITTERS]
+
+[STATUS]
+
+[PATTERNS]
+
+[CURVES]
+
+[CONTROLS]
+
+[QUALITY]
+
+[SOURCES]
+
+[MIXING]
+
+[REACTIONS]
+ ORDER  BULK            1.00
+ ORDER  WALL            1
+ ORDER  TANK            1.00
+ GLOBAL BULK            0.000000
+ GLOBAL WALL            0.000000
+
+[ENERGY]
+ GLOBAL EFFIC        75.0000
+ DEMAND CHARGE       0.0000
+
+[TIMES]
+ DURATION            0:00:00
+ HYDRAULIC TIMESTEP  1:00:00
+ QUALITY TIMESTEP    0:05:00
+ REPORT TIMESTEP     1:00:00
+ REPORT START        0:00:00
+ PATTERN TIMESTEP    1:00:00
+ PATTERN START       0:00:00
+ RULE TIMESTEP       0:06:00
+ START CLOCKTIME     0:00:00
+ STATISTIC           NONE
+
+[OPTIONS]
+ UNITS               LPS
+ PRESSURE            METERS
+ HEADLOSS            H-W
+ UNBALANCED          CONTINUE 10
+ QUALITY             NONE
+ DEMAND MULTIPLIER   1.0000
+ EMITTER EXPONENT    0.5000
+ VISCOSITY           1.000000
+ DIFFUSIVITY         1.000000
+ SPECIFIC GRAVITY    1.000000
+ TRIALS              40
+ ACCURACY            0.00100000
+ TOLERANCE           0.01000000
+ CHECKFREQ           2
+ MAXCHECK            10
+ DAMPLIMIT           0.00000000
+
+[REPORT]
+ PAGESIZE            0
+ STATUS              NO
+ SUMMARY             NO
+ ENERGY              NO
+ NODES               NONE
+ LINKS               NONE
+ Elevation           NO
+ Demand              PRECISION 2
+ Head                PRECISION 2
+ Pressure            PRECISION 2
+ Quality             NO
+ Length              NO
+ Diameter            NO
+ Flow                PRECISION 2
+ Velocity            PRECISION 2
+ Headloss            PRECISION 2
+ Quality             NO
+ State               NO
+ Setting             NO
+ Reaction            NO
+
+[END]

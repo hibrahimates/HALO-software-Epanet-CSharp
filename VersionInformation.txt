@@ -1,0 +1,41 @@
+V4.10
+
+-Boru listesine 600lük boru eklendi 
+-Sistem boru fiyatýný hesaplayan sýnýf eklendi
+-lenghtler eklendi
+
+V4.20
+-flowlarý ve headloss'larý alýrkenki sýralama karmaþasý giderildi.
+-boru fiyatý hesaplanýrken borularýn uzunluklarý dikkate alýnýyor.
+
+
+V4.99
+
+-Power hesabý nodelara dayalý olarak deðiþtirildi
+-minpressure kontrolü yapýlýyor sadece , failure ve surplus indexler iptal edildi
+-Min pressure 30 metre
+-her adýmda boru çaplarýný gösteriyor
+
+
+V5.0
+-Form uygulamasý eklendi
+-Resilience index ve min pressure kullanýcý tarafýndan girilebiliyor.
+
+	?Inp dosyasý kullanýcýya seçtirilecek
+	?
+
+V5.01
+-form tablosunda deðiþiklik yapýldý.
+
+V5.03
+-console clear eklendi..
+-consoleda hýzlar vs yazdýrýlýyor..
+-Form düzenlendi( cost fiyat ve basýnç farkýný gösteriyor...
+
+V6.00
+-Pareto seti hesaplma eklendi
+-excele kopyalama eklendi.
+
+
+V6.01
+-Yayla DMA'sýnýn orjinal deðerleri de tanýmlandý.
