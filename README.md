@@ -3,8 +3,6 @@
 please find related thesis below;
 https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=vjszP7PzV0HebcjFEvDfwEc_IQocAkNNWD5ygMbjlr_Aa7w-DSYUzEAlOi3OXaC2
 
-It can be also seen source codes at the end of the thesis.
-
 # HALO-software-Epanet-CSharp
 HALO software which is programmed according to paper (Todini, 2000) developed for Msc Thesis at METU (Turkey).
 Please do not hesitate to contact with me for your queries.
